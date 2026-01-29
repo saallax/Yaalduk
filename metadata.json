@@ -1,0 +1,7 @@
+{
+  "name": "Yaaldug",
+  "description": "A Somali-first digital learning platform designed for low-bandwidth users, providing courses, progress tracking, and educational resources.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
